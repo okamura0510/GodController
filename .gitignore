@@ -1,0 +1,13 @@
+/*
+
+!/.gitignore
+!/Assets
+!/Packages
+!/ProjectSettings
+!/GodController.unitypackage
+!/README.md
+
+.DS_Store
+*.DS_Store
+*~
+*~$*
